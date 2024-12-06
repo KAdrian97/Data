@@ -1,0 +1,9 @@
+<h2>Shody jednotlivých politických stran</h2>
+<ul>
+<li>Nejvyšší možná shoda je 1</li>
+<li>Nejnižší možná shoda je 0
+<ul><li>Takhle nízké shody ale žádná dvojice nedosahuje – dataset totiž obsahuje také množství spíše formálních hlasování o náležitostech schůzí (obsahu aj.)</li></ul></li>
+<li>Každá tepelná mapa má jiné měřítko, které se nastavuje automaticky dle nejnižší shody, takže není možné srovnávat dvě mapy mezi sebou</li>
+</ul>
+
+<img src=>
